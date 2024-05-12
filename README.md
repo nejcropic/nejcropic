@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @nejcropic
-- 👀 I’m interested in electronics 
-- 🌱 I’m currently learning electrical engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Interested in electronics and programming
+- currently studying electrical engineering
+- 📫 nejc.ropic@gmail.com
 
 <!---
 nejcropic/nejcropic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
