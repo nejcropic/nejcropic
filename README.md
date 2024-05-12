@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @nejcropic
-- 👀 Interested in electronics and programming
-- currently studying electrical engineering
+- Interested in electronics and programming
+- Currently studying electrical engineering
 - 📫 nejc.ropic@gmail.com
 
 <!---
